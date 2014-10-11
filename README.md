@@ -1,4 +1,4 @@
-priism-group
+PRIISM-group
 ============
 
-Repo for PRIISM Center
+Repo for PRIISM Center (under marcascott, for now)
